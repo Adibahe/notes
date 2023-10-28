@@ -1,0 +1,16 @@
+1.git clone
+2.commit HEAD: pointer to to the recent commit
+3.main:same as HEAD but it's name of the branch
+4.git fetch:
+5.fast forward merge
+6.origin/main(know more about it)
+7.deverging of a branch in git.
+8.desolving a diverge >merge
+		      >rebase
+9.php(namespaces)
+10.exit 
+11. include all files in php.
+12.calling fuction, and creation of function.
+13.Namespaces in php.
+14.controller in php.
+15.composer init
